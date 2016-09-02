@@ -1,4 +1,4 @@
-FROM quay.io/informaticslab/extensions
+FROM quay.io/informaticslab/asn-extensions
 
 # Add Tini
 ENV TINI_VERSION v0.10.0

@@ -1,4 +1,4 @@
-FROM quay.io/informaticslab/base_python
+FROM quay.io/informaticslab/asn-base_python
 
 # Python 2
 RUN conda create -y -n py2 python=2 ipykernel
