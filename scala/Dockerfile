@@ -1,4 +1,4 @@
-FROM pyclojure
+FROM quay.io/informaticslab/clojure
 
 # Scala
 RUN curl -L -o jupyter-scala https://git.io/vrHhi && \

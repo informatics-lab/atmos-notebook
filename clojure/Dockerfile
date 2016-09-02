@@ -1,4 +1,4 @@
-FROM r
+FROM quay.io/informaticslab/r
 
 #Clojure    
 RUN update-ca-certificates -f

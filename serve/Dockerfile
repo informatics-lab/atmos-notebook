@@ -1,5 +1,4 @@
-FROM extensions
-# quay.io/informaticslab/base_python
+FROM quay.io/informaticslab/extensions
 
 # Add Tini
 ENV TINI_VERSION v0.10.0
